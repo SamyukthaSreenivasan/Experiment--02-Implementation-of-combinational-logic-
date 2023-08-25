@@ -65,9 +65,8 @@ endmodule
 ## RTL Diagram:
 ![image](https://github.com/SamyukthaSreenivasan/Experiment--02-Implementation-of-combinational-logic-/assets/119475703/eb8bc77f-7bcc-4dfe-96f5-db9817d7d19f)
 
-## Output:
+## Output Timing Diagram:
 ![WhatsApp Image 2023-08-25 at 09 40 03](https://github.com/SamyukthaSreenivasan/Experiment--02-Implementation-of-combinational-logic-/assets/119475703/2bb2ded1-e4bc-462a-867f-612356101839)
 
-## Timing Diagram
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
