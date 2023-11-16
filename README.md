@@ -62,6 +62,7 @@ assign x5=(B)&(~C)&(D);
 assign F=x1|x2|x3|x4|x5;
 endmodule
 ```
+
 ## RTL Diagram:
 ![image](https://github.com/SamyukthaSreenivasan/Experiment--02-Implementation-of-combinational-logic-/assets/119475703/eb8bc77f-7bcc-4dfe-96f5-db9817d7d19f)
 
